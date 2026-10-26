@@ -1,9 +1,9 @@
 /*
  *  Catch v2.13.10
- *  Generated: 2024-05-05 13:55:21.980432
+ *  Generated: 2026-10-26 22:07:11.325865
  *  ----------------------------------------------------------
  *  This file has been merged from multiple headers. Please don't edit it directly
- *  Copyright (c) 2024 Two Blue Cubes Ltd. All rights reserved.
+ *  Copyright (c) 2026 Two Blue Cubes Ltd. All rights reserved.
  *
  *  Distributed under the Boost Software License, Version 1.0. (See accompanying
  *  file LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_0.txt)
@@ -959,6 +959,8 @@ namespace mpl_{
 }
 
 // end catch_meta.hpp
+#include <new>
+
 namespace Catch {
 
 template<typename C>
